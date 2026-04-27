@@ -1,17 +1,15 @@
 # READ ME
 
-This is a personal site I made for the hack club tutorial, it's always good to get a refresher.
+This is a personal site I made for the hack club tutorial, nothing too fancy! If you're also feeling intimidated by Hack Club, know you don't have to be, there's so many resources provided and out there.
 
-**Why?**
+**How do I access it?**
 
-- Better chance of **maintaining** knowledge
-- Review things you might have **forgetten**
-
-Don't expect anything astonishing here lol
+click on this link: https://solaterin.github.io/hack-club-tutorial-site/
 
 
 
 ## Preview
 
-![Website Preview](https://static.boredpanda.com/blog/wp-content/uploads/2020/07/rare-black-panther-wildlife-photography-shaaz-jung-6-5f0ff9727aff4__700.jpg)
-*image credits to [shaazjung](https://www.instagram.com/shaazjung/)*
+![Website Preview](image.png)
+
+*panther image credits to [shaazjung](https://www.instagram.com/shaazjung/)*
